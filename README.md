@@ -5,7 +5,7 @@ NOTE!!!
 
 Download the Original datasets containing 2 files (population_data[2007-2023].csv and Sri_lanka_dengue_cases_weather_weekly_2007_2024_.csv) used for my analysis from this 'Original Csv files (zip folder)' File
 
-Check out my report and recommendation on Dengue Reported Cases in Sri lanka , all in 'My analysis report' File.
+'Sri_lanka_analyisis_mine.ipynb' File contains my all my analysis using python, also check out my report and recommendation on Dengue Reported Cases in Sri lanka , all in 'My analysis report' File.
 
 Dataset Source :
 Multiple Sources on the internet including Kaggle (An Omdena.com Project)
